@@ -1,0 +1,10 @@
+---
+layout: default
+title: Home
+---
+{% for post in site.posts limit:3 %}
+  <h4 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h4>
+  {{post.content}}
+  <div class="date-line">{{ post.date | date_to_string }}</div>
+  <div class="sep"></div>
+{% endfor %}
