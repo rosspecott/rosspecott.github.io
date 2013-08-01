@@ -6,7 +6,7 @@ I was tired of having my blog posts end up in a database off on some remote serv
 
 # License
 
-The following directories and their contents are Copyright Justin Pecott. You may not reuse anything therein without my permission:
+The following directories and their contents are Copyright Ross Pecott. You may not reuse anything therein without my permission:
 
 * _posts/
 * images/
